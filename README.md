@@ -1,7 +1,15 @@
 # boilerplate-project
 
+<img src="https://github.com/revaturelabs/boilerplate-project/tree/master/logo/logo.png" width="100px"/>
+
 This project defines the conventions for all repos in this org.
 
-## How to Contribute
-1. Fork the repository
-2. Create a pull request
+## Introduction
+
+## Code of Conduct
+
+## Community
+
+## Contribute
+
+## Support
